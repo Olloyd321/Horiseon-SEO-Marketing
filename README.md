@@ -6,9 +6,11 @@ The challenege includes a webspage that advertises and provides information abou
 
     *NOTES OF ACTIONS TAKEN*
 
-        <!-- *almost all sections were tagged <div> - main section changed to <main>
+        <!-- *almost all sections were tagged <div>
+        *main section changed to <main>
         *header was set also set to <div> and was changed to <nav> as well as 
-        *footer changed to <footer> -->
+        *footer changed to <footer> 
+        *title changed from 'website' to 'horeizon marketing agency'-->
     
     
     
