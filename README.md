@@ -12,7 +12,7 @@ The challenege includes a webspage that advertises and provides information abou
     
     
     
-Please find deployment link here - 
+Please find deployment link here - https://olloyd321.github.io/challenge-day-3/
 
 Please find screenshot of submitted work here - ![Alt text](assets/images/Screenshot%202022-12-20%20214653.png)
                                                 ![Alt text](assets/images/Screenshot%202022-12-20%20214735.png)
