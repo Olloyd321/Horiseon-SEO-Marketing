@@ -1,4 +1,4 @@
-# challenge-day-3
+# Horiseon SEO Services
 
 <strong>This document outlines Ollie Lloyds submission of day 3 challenge and the link to the deployment of said challenge<strong>
 
